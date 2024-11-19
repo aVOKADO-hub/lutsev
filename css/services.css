@@ -218,8 +218,11 @@
 .achievements h2 {
   margin: 0;
 }
-.achievement {
+.achievements-list {
   width: 70%;
+}
+.achievement {
+  width: 100%;
   text-align: center;
   transition: 0.1s;
 }
